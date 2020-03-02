@@ -18,8 +18,8 @@
 
    align-items：元素在交叉轴上的对齐方式
 
-2. 页面展示
+2. 页面展示（具体代码在pages/Firstpage内）
 
-![1](/Users/pepper/Desktop/移动开发/Week1_BookInfo/1.png)
+![1](1.png)
 
-![2](/Users/pepper/Desktop/移动开发/Week1_BookInfo/2.png)
+![2](2.png)
