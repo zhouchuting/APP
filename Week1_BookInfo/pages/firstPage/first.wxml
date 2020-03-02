@@ -1,0 +1,51 @@
+<view class="container1">
+  <view class="img">
+
+    <image style="width: 90px; height: 135px;" mode="{{item.mode}}" src="{{src}}">
+    </image>
+
+  </view>
+  
+  <view class="item" style="font-weight: 450">
+    <text>书名：面纱\n</text>
+    <text>作者：\n[英]威廉·萨默塞特·毛姆\n</text>
+    <text>出版社：\n开明出版社</text>
+  </view>
+  
+  <!-- <view class="item">
+    作者：[英]威廉·萨默塞特·毛姆 
+  </view>
+  
+  <view class="item">
+    出版社：开明出版社
+  </view> -->
+
+  <view class="item2" style="font-weight: 450">
+    内容简介
+  </view>
+
+
+  <view class="item4" >
+    <text decode="{{true}}">&emsp;&emsp;《面纱》由W.萨默塞特·毛姆编著。\n</text>
+<text decode="{{true}}">&emsp;&emsp;《面纱》讲述了：容貌娇美而又爱慕虚荣的英国女子凯蒂，为了避免自己变成一位老姑娘，接受了生性孤僻的医生瓦尔特·费恩的求婚。她离开了上世纪20年代伦敦浮华而空虚的社交圈，随瓦尔特远赴神秘的东方殖民地——香港。\n</text>
+    <text decode="{{true}}">&emsp;&emsp;对婚姻感到不满和无趣，凯蒂开始悄悄与令她芳心摇动的香港助理布政司查理·唐生偷情。瓦尔特发现妻子的不忠后，孤注一掷，开始了他奇特而可怕的报复计划：凯蒂必须随他前往遥远的中国内地，去平息一场正疯狂流行的霍乱瘟疫。在异国美丽却凶险的环境中，他们经历了在英国家乡的舒适生活中无法想象和体验的情感波澜……\n</text>
+<text decode="{{true}}">&emsp;&emsp;在爱情、背叛与死亡的漩涡中挣扎的凯蒂，亲历了幻想破灭与生死离别之后，终将生活的面纱从她的眼前渐渐揭去，从此踏上了不悔的精神成长之路。</text>
+
+  </view>
+  <view class="item2" style="font-weight: 450">
+    原文摘录
+  </view>
+  <view class="item4" >
+
+<text>“我知道你愚蠢、轻浮、没有头脑、但是我爱你、我知道你的目标和理想即庸俗又普通，但是我爱你。我知道你是二流货色，但是我爱你。想一想真是好笑，我竭力去喜欢那些讨你喜欢的东西，忍受折磨也要对你隐瞒起自己，实际上我并不无知粗俗、不爱传播丑闻也不愚蠢。我知道你何等害怕智慧，使尽我所能让你觉得我是个大傻瓜，跟你认识的掐人一样。我知道你嫁给我只图一时利益，我是那样爱你，我不在乎。”
+—— 引自章节：本书 共267页
+</text>
+
+</view>
+
+
+  
+</view>
+
+
+
