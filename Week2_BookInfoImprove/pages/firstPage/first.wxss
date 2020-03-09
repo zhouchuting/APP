@@ -1,0 +1,42 @@
+/* pages/firstPage/first.wxss */
+.container1{
+  
+  padding: 30rpx 20rpx;
+  background-color: antiquewhite;
+  display: flex;
+  flex-direction: row; 
+  flex-wrap: wrap;
+  justify-content: space-around;
+  
+  
+}
+
+/* .img{
+  
+  display: flex;
+  flex-direction: column;
+
+} */
+.item{
+  padding: 25px 10px 0 0;
+  height: 100px;
+  width: 150px;
+  font-size: 13px;
+  /* display: flex;
+  flex-direction: column; */
+  line-height: 1.6;
+  
+
+}
+
+.item2{
+  padding: 10px 0 0 0;
+}
+
+.item4{
+  font-size: 13px;
+  padding: 20rpx 0rpx;
+  background-color: rgba(241, 238, 232, 0.767);
+  border: 2px solid rgba(7, 0, 0, 0.089);
+  line-height: 2;
+}
